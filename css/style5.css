@@ -3,22 +3,6 @@ body
 	background-color: tan;
 }
 
-h1
-{
-	font-family: georgia;
-	font-size: 30 px;
-	
-	
-
-}
-
-p
-{
-	font-family: centuryGothic;
-	font-size: 20px;
-	display: ruby-base-container;
-	
-}
 
 ul
 {
@@ -48,23 +32,14 @@ li a
 	font-size: 20px;
 }
 
-dt 
-{
-	font-family: georgia;
-	text-align: center;
-}
-
-dd
-{
-	font-family: centurygothic;
-	text-align: center;
-
-}
-
 a:hover 
 {
 	background-color: wheat;
 	color: black;
 }
 
-
+img 
+{
+	border-color: beige;
+	border-width: 10;
+}

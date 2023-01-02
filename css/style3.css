@@ -31,3 +31,32 @@ li a
 	font-family: CalistoMT;
 	font-size: 20px;
 }
+
+a:hover 
+{
+	background-color: wheat;
+	color: black;
+}
+
+h2 
+{
+	font-family: Georgia;
+	color: sienna;
+}
+
+p
+{
+	font-family: CenturyGothic;
+}
+
+table, th, tr, td
+{
+	border: 2px solid sienna;
+	border-collapse: collapse;
+}
+
+tr:hover
+{
+	background-color:wheat ;
+	color: black;
+}

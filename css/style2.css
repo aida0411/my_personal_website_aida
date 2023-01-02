@@ -30,4 +30,15 @@ li a
 	text-decoration: none;
 	font-family: CalistoMT;
 	font-size: 20px;
+	
 }
+
+a:hover 
+{
+	background-color: wheat;
+	color: black;
+}
+
+
+
+
