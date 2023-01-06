@@ -49,3 +49,10 @@ dt
 	color: sienna;
 	font-size: 20px;
 }
+
+img
+{
+	border-style: solid;
+	border-color: saddlebrown;
+	border-width: 5px;
+}

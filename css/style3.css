@@ -60,3 +60,10 @@ tr:hover
 	background-color:wheat ;
 	color: black;
 }
+
+img
+{
+	border-style: solid;
+	border-color: saddlebrown;
+	border-width: 5px;
+}
