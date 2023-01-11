@@ -1,6 +1,6 @@
 body 
 {
-	background-color: maroon;
+	background-color: darkolivegreen;
 }
 
 
@@ -45,15 +45,22 @@ h1
 
 p
 {
-	font-family: centuryGothic;
-	font-size: 15px;
+	font-family: candara;
+	font-size: 17px;
 	display: ruby-base-container;
-	color: white;
-	
+	color: white;	
 }
+
+img 
+{
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+}
+
 a:hover 
 {
-	background-color: seashell;
+	background-color: olivedrab;
 	color: black;
 }
 

@@ -1,6 +1,6 @@
 body 
 {
-	background-color: maroon;
+	background-color: darkolivegreen;
 }
 
 
@@ -34,7 +34,7 @@ li a
 
 a:hover 
 {
-	background-color: seashell;
+	background-color: olivedrab;
 	color: black;
 }
 
@@ -50,20 +50,26 @@ h2
 
 p
 {
-	font-family: CenturyGothic;
+	font-family: Candara;
 	color: white;
+	font-size: 17px;
 }
 
-table, th, tr, td
+table,th, tr, td
 {
 	border: 2px solid black;
 	border-collapse: collapse;
 	color: white;
+	font-family: candara;
 }
 
+th
+{
+	font-family: georgia;
+}
 tr:hover
 {
-	background-color: black ;
+	background-color: darkslategray ;
 	color: black;
 }
 

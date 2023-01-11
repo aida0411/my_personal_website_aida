@@ -1,6 +1,6 @@
 body 
 {
-	background-color: maroon;
+	background-color: darkolivegreen;
 }
 
 
@@ -34,7 +34,7 @@ li a
 
 li a:hover 
 {
-	background-color: seashell;
+	background-color: olivedrab;
 	color: black;
 }
 

@@ -1,6 +1,6 @@
 body 
 {
-	background-color: maroon;
+	background-color: darkolivegreen;
 }
 
 
@@ -34,7 +34,7 @@ li a
 
 a:hover 
 {
-	background-color: seashell;
+	background-color: olivedrab;
 	color: black;
 }
 
@@ -63,6 +63,8 @@ dt
 dd
 {
 	color: white;
+	font-family: candara;
+	font-size: 17px;
 }
 
 img
