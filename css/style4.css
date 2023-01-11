@@ -1,6 +1,6 @@
 body 
 {
-	background-color: tan;
+	background-color: maroon;
 }
 
 
@@ -9,11 +9,11 @@ ul
 	list-style-type: none;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 40px; 40px;
+	padding: 30px; 30px;
 	overflow: hidden;
-	background-color: sienna;
-	width: 100%;
-	height: 10px;
+	background-color: black;
+	width: 65%;
+	height: 5px;
 }
 
 li
@@ -34,25 +34,40 @@ li a
 
 a:hover 
 {
-	background-color: wheat;
+	background-color: seashell;
 	color: black;
+}
+
+h1 
+{
+	color: white;
+}
+
+p
+{
+	color: white;
 }
 
 h2
 {
 	font-family: georgia;
-	color: sienna;
+	color: white;
 }
 
 dt
 {
-	color: sienna;
+	color: white;
 	font-size: 20px;
+}
+
+dd
+{
+	color: white;
 }
 
 img
 {
 	border-style: solid;
-	border-color: saddlebrown;
-	border-width: 5px;
+	border-color: black;
+	border-width: 3px;
 }
