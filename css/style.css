@@ -1,6 +1,9 @@
+
 body
 		{
 			background-color: darkolivegreen;
+					
+
 		}
 ul
 {
@@ -12,11 +15,15 @@ ul
 	background-color: black;
 	width: 65%;
 	height: 5px;
+	
+
 }
 
 li
 {
 	float: left;
+	
+	
 }
 
 li a
@@ -28,13 +35,26 @@ li a
 	text-decoration: none;
 	font-family: calistoMT;
 	font-size: 20px;
+	
+
 }
 
 a:hover 
 {
 	background-color:olivedrab ;
 	color: black;
+	
 }
 
 
+ #clock 
+  { 
+    font-size: 50px;           
+    text-align: center; 
+	  width: 200px;                      
+    border-radius: 20px; 
+    color: white;
+    
+   } 
 
+ 
